@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "vue": "^2.6.8",
-    "d3": "^5.9.1"
+    "d3": "^7.6.1"
   },
   "devDependencies": {
     "webpack": "^4.29.6",
